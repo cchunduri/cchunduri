@@ -1,4 +1,10 @@
-### Hi there 👋
+
+I am Chaitanya Chunduri, Full Stack Engineer. I've expertise on #Java, #Spring Boot, #ReactJS and #Webcomponents. 
+
+- 🔭 I’m currently working on Spring Boot and Web Components 
+- 🌱 I’m currently learning Kotlin
+- 📫 Reach out to me: chaitanyach@outlook.com
+
 
 <!--
 **cchunduri/cchunduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

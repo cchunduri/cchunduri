@@ -3,7 +3,6 @@ I am Chaitanya Chunduri, Full Stack Engineer. I've expertise on #Java, #Kotlin, 
 
 - 🔭 I’m currently working on Spring Boot and Web Components 
 - 🌱 I’m currently learning Kotlin
-- 📫 Reach out to me: chaitanyach@outlook.com
 
 
 <!--

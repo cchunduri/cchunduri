@@ -1,8 +1,11 @@
 
 I am Chaitanya Chunduri, Full Stack Engineer. I've expertise on #Java, #Kotlin, #Spring Boot, #ReactJS, #Webcomponents, #Android. 
 
-- 🔭 I’m currently working on Spring Boot and Web Components 
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on Spring Boot, JPA, Kotlin, Java.
+- 🔭 I'm also expert in JavaScript, ReactJS and WebComponents.
+- ⚡ I posses Android Development skills too.
+- 👯 I'm co-organizer at Chennai Java Community.
+- 🌱 I’m currently exploring DDD(Domain Deriven Design) and architecture patterns.
 
 
 <!--
